@@ -1,0 +1,19 @@
+C:\CODING\проекты С#\статистика\Stat_3\Stat_3\bin\Debug\Stat_3.exe.config
+C:\CODING\проекты С#\статистика\Stat_3\Stat_3\obj\Debug\Stat_3.csprojResolveAssemblyReference.cache
+C:\CODING\проекты С#\статистика\Stat_3\Stat_3\obj\Debug\Stat_3.Form1.resources
+C:\CODING\проекты С#\статистика\Stat_3\Stat_3\obj\Debug\Stat_3.Properties.Resources.resources
+C:\CODING\проекты С#\статистика\Stat_3\Stat_3\obj\Debug\Stat_3.csproj.GenerateResource.Cache
+C:\CODING\проекты С#\статистика\Stat_3\Stat_3\bin\Debug\Stat_3.exe
+C:\CODING\проекты С#\статистика\Stat_3\Stat_3\bin\Debug\Stat_3.pdb
+C:\CODING\проекты С#\статистика\Stat_3\Stat_3\obj\Debug\Stat_3.exe
+C:\CODING\проекты С#\статистика\Stat_3\Stat_3\obj\Debug\Stat_3.pdb
+C:\CODING\C#\Stat_3\Stat_3 — копия\Stat_3\bin\Debug\Stat_3.exe.config
+C:\CODING\C#\Stat_3\Stat_3 — копия\Stat_3\bin\Debug\Stat_3.exe
+C:\CODING\C#\Stat_3\Stat_3 — копия\Stat_3\bin\Debug\Stat_3.pdb
+C:\CODING\C#\Stat_3\Stat_3 — копия\Stat_3\obj\Debug\Stat_3.csprojAssemblyReference.cache
+C:\CODING\C#\Stat_3\Stat_3 — копия\Stat_3\obj\Debug\Stat_3.Form1.resources
+C:\CODING\C#\Stat_3\Stat_3 — копия\Stat_3\obj\Debug\Stat_3.Properties.Resources.resources
+C:\CODING\C#\Stat_3\Stat_3 — копия\Stat_3\obj\Debug\Stat_3.csproj.GenerateResource.cache
+C:\CODING\C#\Stat_3\Stat_3 — копия\Stat_3\obj\Debug\Stat_3.csproj.CoreCompileInputs.cache
+C:\CODING\C#\Stat_3\Stat_3 — копия\Stat_3\obj\Debug\Stat_3.exe
+C:\CODING\C#\Stat_3\Stat_3 — копия\Stat_3\obj\Debug\Stat_3.pdb
