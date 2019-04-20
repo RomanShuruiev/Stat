@@ -216,7 +216,7 @@ namespace Stat_3
         {
             for (int i = 0; i < Data.Count; i++)
             {
-               // SumDat[i] += Math.Abs((double)Data[i] - averageValue);
+                SumDat[i] += Math.Abs((double)Data[i] - averageValue);
              
             }
 
